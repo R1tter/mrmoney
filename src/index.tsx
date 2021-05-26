@@ -13,7 +13,7 @@ createServer({
       transactions: [
         {
           id: 1,
-          title: 'Freela de website',
+          title: 'Teste depósito',
           type: 'deposit',
           category: 'Dev',
           amount: 6000,
@@ -21,7 +21,7 @@ createServer({
         },
         {
           id: 2,
-          title: 'Aniversário',
+          title: 'Teste saque',
           type: 'withdraw',
           category: 'Casa',
           amount: 300,
